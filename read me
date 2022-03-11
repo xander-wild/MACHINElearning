@@ -1,0 +1,18 @@
+file:///home/lenovo/Desktop/machine%20learning%20/marplotlib/virus%20representation/read%20me
+
+hi this is a visual representation of the covid 19 virus 
+in which we have taken the property of the pathogen 
+and made a hypotheticall sitation with a population of 4500 people 
+in which we have taken an estimate that 90 % will come in contact some time 
+
+with this hypothesis i have made this simulaiton you can change it to according to any 
+ifectious diseases and just need to change the properties of pathogen 
+
+you will have to install numpy and matplotlib for this 
+
+>> pip install numpy
+>> pip install matplotlib
+
+you can run with can code editor or 
+directly from terminal with 
+>> python3 main.py  
