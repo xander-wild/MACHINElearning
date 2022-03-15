@@ -1,0 +1,12 @@
+install 
+
+sudo pip install -U nltk
+sudo pip install pandas 
+sudo pip install seaborn
+sudo pip install matplotlib.pyplot
+pip install wordcloud
+
+
+enjoy the programm
+
+
