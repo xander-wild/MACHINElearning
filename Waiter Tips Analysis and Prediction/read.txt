@@ -1,0 +1,28 @@
+Tipping waiters for serving food depends on many factors like the type of restaurant, how many people 
+you are with, how much amount you pay as your bill, etc. Waiter Tips analysis is one of the popular data science case studies where we need to predict the 
+tips given to a waiter for serving the food in a restaurant.
+
+waiter tips case studey :
+
+data needed 
+
+1.total bill : total bill in dollars including taxes 
+2. tip : given to waiters 
+3. sex: gender 
+4. smoker : yes or no 
+5. day: day of the weak 
+6. lunch or dinner 
+7. sisze : no of people in a table 
+
+we will read the data from tips.csv
+
+
+library required 
+pip install pandas 
+pip install plotly 
+pip install numpy 
+pip install statsmodels 
+pip install scikit-learn
+
+we have used the linear regression modle in this 
+there are a lot of fig show you can comment them out as you need 
