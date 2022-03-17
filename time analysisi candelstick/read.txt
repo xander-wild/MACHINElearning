@@ -1,0 +1,21 @@
+Time series analysis means analyzing and finding patterns in a time series dataset. A time-series dataset is a sequence of data collected over an interval of time. Stock price data, monthly sales data, daily rainfall data, hourly website traffic data are some examples of time-series data that you will get to solve business problems as a data scientist. So if you want to learn Time Series Analysis, this article is for you. In this article, I will take you through the task of Time Series Analysis using Python.
+
+
+ 
+Time Series Analysis
+Whenever you are analyzing a dataset recorded over a time interval, you are doing Time Series Analysis. The time interval of a time series data can be weekly, monthly, daily, or even hourly time intervals, but the process of analyzing your data will remain the same in most of the problems.
+
+At the end of this article, you will learn to do Time Series Analysis using Python. I will be using the plotly library in Python here as it is easy to analyze data with plotly because of less code and interactive results. I will recommend using a Jupyter Notebook or Google Colaboratory for Time series analysis instead of using a code editor or an IDE like VS Code or PyCharm.
+
+Time Series Analysis using Python
+Let’s start the task of Time Series Analysis using Python by importing the necessary Python libraries and a time series dataset:
+
+
+install guide
+
+pip install pandas 
+pip install yfinance
+pip install datetime 
+pip install plotly
+
+enjoy the programm 
