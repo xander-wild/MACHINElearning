@@ -1,0 +1,15 @@
+install 
+pip install pytrends
+
+Google doesn’t give much access to the data about 
+daily search queries, but another application of 
+google known as Google Trends can be used for the 
+task of Google search analysis. Google Trends 
+provides an API that can be used to analyze the daily 
+searches on Google. This API is known as pytrends, 
+you can easily install it in your systems 
+
+and other modules if not available 
+
+
+So we can see that searches based on “machine learning” on Google started to increase in 2017 and the highest searches were done in 2020 till today. This is how we can analyze Google searches based on any keyword. A business can perform Google search analysis to understand what people are looking for on Google at any given time. I hope you liked this article on Google search analysis with Python
