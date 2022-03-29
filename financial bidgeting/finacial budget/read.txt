@@ -1,0 +1,14 @@
+in the programm we are first taking the data from the kaggle from india financial budgete 2021 we are reading the file in csv format and with the help of pandas for reading the data 
+nummpy for data explorration 
+and matplotlib for represting the data in chart and and pie format 
+We can see that the finance department is getting the most of the share from the total budget of the government. for rural dev and home affairs are only getting a budget of 3.9 and 4.2 % respectively 
+while the financial dep taking a big 40 % of the budget 
+for furtherign this project to make a idel budget for a country which is need to be developed 
+we can compare it to all the top  10 developing country  and all the top 10 developed country from here we can see that what will be the idel budget for the country 
+
+for  modules installation 
+pip install pandas 
+pip install matplotlib.pyplot 
+for running the code install the 2 modules from the terminal or cmd command prompt 
+the code is error free 
+
